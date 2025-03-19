@@ -1,0 +1,1 @@
+Dark Rooms is a first-person horror puzzle game where the player must solve puzzles and escape from a mysterious hotel while being hunted by an unknown entity. Built with Unity and C#, the game focuses on atmospheric tension, exploration, and strategic problem-solving.
